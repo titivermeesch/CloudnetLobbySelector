@@ -1,0 +1,17 @@
+cloudnetLobbyTaskName: "Lobby"
+
+### JOIN ITEM CONFIGURATION
+giveItemOnJoin: true
+joinItem: EMERALD # Please use a material from this list (Materials change depending on your version): https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+joinItemSlot: 8
+joinItemName: "&6&lSelect your lobby"
+joinItemLore:
+  - ""
+  - "&9Select from one of our other lobbies"
+
+
+## GUI Settings
+inventoryName: "&6&lSelect your lobby"
+inventoryItem: WHITE_WOOL
+inventoryCloseItem: REDSTONE
+inventoryCloseText: "&cClose"

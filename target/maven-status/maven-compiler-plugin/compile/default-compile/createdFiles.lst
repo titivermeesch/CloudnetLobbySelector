@@ -1,0 +1,9 @@
+me/playbosswar/cloudnetlobbyselector/utils/ConfigTranslators.class
+me/playbosswar/cloudnetlobbyselector/utils/CloudnetHelpers.class
+me/playbosswar/cloudnetlobbyselector/utils/Menus.class
+me/playbosswar/cloudnetlobbyselector/gui/LobbySelectorMenu.class
+me/playbosswar/cloudnetlobbyselector/Main.class
+me/playbosswar/cloudnetlobbyselector/events/JoinItems.class
+me/playbosswar/cloudnetlobbyselector/events/LobbySelectorClicks.class
+me/playbosswar/cloudnetlobbyselector/utils/Messages.class
+me/playbosswar/cloudnetlobbyselector/events/LobbyItemClick.class
