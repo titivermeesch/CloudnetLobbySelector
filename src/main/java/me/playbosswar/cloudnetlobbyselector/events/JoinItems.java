@@ -25,7 +25,6 @@ public class JoinItems implements Listener {
         ItemMeta meta = item.getItemMeta();
         meta.setDisplayName(Messages.color(c.getString("joinItemName")));
         meta.setLore(ConfigTranslators.getLoreFromConfig("joinItemLore"));
-        meta.setCustomModelData(56789876);
         item.setItemMeta(meta);
 
         joinedPlayer.getInventory().setItem(slot, new ItemStack(item));
