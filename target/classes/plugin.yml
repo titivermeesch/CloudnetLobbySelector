@@ -1,6 +1,6 @@
 main: me.playbosswar.cloudnetlobbyselector.Main
 name: "CloudNetLobbySelector"
-version: "0.1"
+version: "1.0"
 description: "Simple lobby selector that hooks into your CloudNet proxy"
 api-version: "1.15"
 author: PlayBossWar

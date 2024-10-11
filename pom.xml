@@ -7,7 +7,7 @@
     <groupId>me.playbosswar.cloudnetlobbyselector</groupId>
     <artifactId>cloudnetlobbyselector</artifactId>
     <name>CloudNetLobbySelector</name>
-    <version>0.1</version>
+    <version>1.0</version>
     <description>Simple lobby selector that hooks into your CloudNet proxy</description>
 
     <build>
